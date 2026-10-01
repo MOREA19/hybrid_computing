@@ -1,0 +1,7 @@
+mode,ranks,workers_per_rank,median_time
+thread,1,4,0.227278
+thread,2,4,0.102745
+thread,4,4,0.056809
+process,1,4,0.227523
+process,2,4,0.240746
+process,4,4,0.391756

@@ -1,0 +1,8 @@
+CPU: AMD Ryzen 7 7445HS w/ Radeon 740M Graphics
+Core fisik: 6
+Thread/logical CPU: 12
+RAM terdeteksi: 15.23 GiB
+OS: Microsoft Windows 11 Home Single Language (10, build 10.0.26200)
+Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+mpi4py: 4.1.2
+MPI: Microsoft MPI 10.1.12498.52

@@ -1,0 +1,180 @@
+
+WARMUP mode=thread ranks=1
+[MPI ranks=1] mode=thread files=30 workers/rank=4
+Time (max per rank): 1.443038 s
+Words processed: 4189191
+
+REPEAT 1/5 mode=thread ranks=1
+[MPI ranks=1] mode=thread files=30 workers/rank=4
+Time (max per rank): 1.622084 s
+Words processed: 4189191
+
+REPEAT 2/5 mode=thread ranks=1
+[MPI ranks=1] mode=thread files=30 workers/rank=4
+Time (max per rank): 1.444396 s
+Words processed: 4189191
+
+REPEAT 3/5 mode=thread ranks=1
+[MPI ranks=1] mode=thread files=30 workers/rank=4
+Time (max per rank): 1.476837 s
+Words processed: 4189191
+
+REPEAT 4/5 mode=thread ranks=1
+[MPI ranks=1] mode=thread files=30 workers/rank=4
+Time (max per rank): 1.426149 s
+Words processed: 4189191
+
+REPEAT 5/5 mode=thread ranks=1
+[MPI ranks=1] mode=thread files=30 workers/rank=4
+Time (max per rank): 1.257644 s
+Words processed: 4189191
+
+WARMUP mode=thread ranks=2
+[MPI ranks=2] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.687521 s
+Words processed: 4189191
+
+REPEAT 1/5 mode=thread ranks=2
+[MPI ranks=2] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.727089 s
+Words processed: 4189191
+
+REPEAT 2/5 mode=thread ranks=2
+[MPI ranks=2] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.815215 s
+Words processed: 4189191
+
+REPEAT 3/5 mode=thread ranks=2
+[MPI ranks=2] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.714748 s
+Words processed: 4189191
+
+REPEAT 4/5 mode=thread ranks=2
+[MPI ranks=2] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.680056 s
+Words processed: 4189191
+
+REPEAT 5/5 mode=thread ranks=2
+[MPI ranks=2] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.672263 s
+Words processed: 4189191
+
+WARMUP mode=thread ranks=4
+[MPI ranks=4] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.461622 s
+Words processed: 4189191
+
+REPEAT 1/5 mode=thread ranks=4
+[MPI ranks=4] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.471127 s
+Words processed: 4189191
+
+REPEAT 2/5 mode=thread ranks=4
+[MPI ranks=4] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.521023 s
+Words processed: 4189191
+
+REPEAT 3/5 mode=thread ranks=4
+[MPI ranks=4] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.480252 s
+Words processed: 4189191
+
+REPEAT 4/5 mode=thread ranks=4
+[MPI ranks=4] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.498939 s
+Words processed: 4189191
+
+REPEAT 5/5 mode=thread ranks=4
+[MPI ranks=4] mode=thread files=30 workers/rank=4
+Time (max per rank): 0.471309 s
+Words processed: 4189191
+
+WARMUP mode=process ranks=1
+[MPI ranks=1] mode=process files=30 workers/rank=4
+Time (max per rank): 0.629833 s
+Words processed: 4189191
+
+REPEAT 1/5 mode=process ranks=1
+[MPI ranks=1] mode=process files=30 workers/rank=4
+Time (max per rank): 0.641463 s
+Words processed: 4189191
+
+REPEAT 2/5 mode=process ranks=1
+[MPI ranks=1] mode=process files=30 workers/rank=4
+Time (max per rank): 0.646425 s
+Words processed: 4189191
+
+REPEAT 3/5 mode=process ranks=1
+[MPI ranks=1] mode=process files=30 workers/rank=4
+Time (max per rank): 0.718613 s
+Words processed: 4189191
+
+REPEAT 4/5 mode=process ranks=1
+[MPI ranks=1] mode=process files=30 workers/rank=4
+Time (max per rank): 0.638938 s
+Words processed: 4189191
+
+REPEAT 5/5 mode=process ranks=1
+[MPI ranks=1] mode=process files=30 workers/rank=4
+Time (max per rank): 0.630910 s
+Words processed: 4189191
+
+WARMUP mode=process ranks=2
+[MPI ranks=2] mode=process files=30 workers/rank=4
+Time (max per rank): 0.551915 s
+Words processed: 4189191
+
+REPEAT 1/5 mode=process ranks=2
+[MPI ranks=2] mode=process files=30 workers/rank=4
+Time (max per rank): 0.553633 s
+Words processed: 4189191
+
+REPEAT 2/5 mode=process ranks=2
+[MPI ranks=2] mode=process files=30 workers/rank=4
+Time (max per rank): 0.580329 s
+Words processed: 4189191
+
+REPEAT 3/5 mode=process ranks=2
+[MPI ranks=2] mode=process files=30 workers/rank=4
+Time (max per rank): 0.612063 s
+Words processed: 4189191
+
+REPEAT 4/5 mode=process ranks=2
+[MPI ranks=2] mode=process files=30 workers/rank=4
+Time (max per rank): 0.603028 s
+Words processed: 4189191
+
+REPEAT 5/5 mode=process ranks=2
+[MPI ranks=2] mode=process files=30 workers/rank=4
+Time (max per rank): 0.574865 s
+Words processed: 4189191
+
+WARMUP mode=process ranks=4
+[MPI ranks=4] mode=process files=30 workers/rank=4
+Time (max per rank): 0.738077 s
+Words processed: 4189191
+
+REPEAT 1/5 mode=process ranks=4
+[MPI ranks=4] mode=process files=30 workers/rank=4
+Time (max per rank): 0.737144 s
+Words processed: 4189191
+
+REPEAT 2/5 mode=process ranks=4
+[MPI ranks=4] mode=process files=30 workers/rank=4
+Time (max per rank): 0.730715 s
+Words processed: 4189191
+
+REPEAT 3/5 mode=process ranks=4
+[MPI ranks=4] mode=process files=30 workers/rank=4
+Time (max per rank): 0.814412 s
+Words processed: 4189191
+
+REPEAT 4/5 mode=process ranks=4
+[MPI ranks=4] mode=process files=30 workers/rank=4
+Time (max per rank): 0.782702 s
+Words processed: 4189191
+
+REPEAT 5/5 mode=process ranks=4
+[MPI ranks=4] mode=process files=30 workers/rank=4
+Time (max per rank): 0.742018 s
+Words processed: 4189191
